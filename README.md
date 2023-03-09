@@ -1,6 +1,5 @@
 # GmailClone-UI
-<p> <b> Design inspiration from: <b> 
-https://www.uplabs.com/posts/e-mail-client-challenge-c5e4e736-88de-43b2-ad7a-bc77db1cb018 </p>
+<p> <b> Design inspiration from: <b> <br> https://www.uplabs.com/posts/e-mail-client-challenge-c5e4e736-88de-43b2-ad7a-bc77db1cb018 </p>
 <br>
 <br>
 <p align="center" width="100%">
